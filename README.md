@@ -16,6 +16,10 @@ A responsive creative studio website built using **HTML** and **SASS**.
 - Built with **HTML5** & **SASS**
 - Modular and Scalable Code
 
+## 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 ## 📂 Project Structure
 ```
 Fylla/
