@@ -8,7 +8,7 @@ A responsive creative studio website built using **HTML** and **SASS**.
 ![Desktop View](https://github.com/akashm01github/fylla/blob/main/Task/Macbook.png)
 
 ### Mobile View
-![Mobile View](path/to/mobile-image.png)
+![Mobile View](https://github.com/akashm01github/fylla/blob/main/Task/iPhone-14-Plus.png)
 
 ## 🚀 Features
 - Fully Responsive Design
