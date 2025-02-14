@@ -5,7 +5,7 @@ A responsive creative studio website built using **HTML** and **SASS**.
 ## 🔥 Preview
 
 ### Desktop View
-![Desktop View](path/to/desktop-image.png)
+![Desktop View](https://github.com/akashm01github/fylla/blob/main/Task/Macbook.png)
 
 ### Mobile View
 ![Mobile View](path/to/mobile-image.png)
