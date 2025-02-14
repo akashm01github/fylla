@@ -20,18 +20,7 @@ A responsive creative studio website built using **HTML** and **SASS**.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-## 📂 Project Structure
-```
-Fylla/
-│── index.html
-│── assets/
-│   ├── css/
-│   │   ├── styles.css
-│   ├── sass/
-│   │   ├── main.scss
-│── images/
-│── README.md
-```
+
 
 ## 🛠️ Setup and Installation
 1. Clone the repository:
